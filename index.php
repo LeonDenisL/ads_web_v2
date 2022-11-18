@@ -82,7 +82,7 @@ include("var.php")
         <div class="ocaucanvas">
           <h3> <?php echo "$mainSlider"?>
           </h3>
-          <img id="ocaucanvas" src="images/OCAU 1.png" alt="Logo OCAU" />
+          <img id="ocaucanvas" class="img-fluid" src="images/OCAU 1.png" alt="Logo OCAU" />
         </div>
       </div>
       <br />
