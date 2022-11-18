@@ -63,7 +63,7 @@ include("var.php")
               <a class="nav-item nav-link" id="sobre-menu" href="#"
                 >Sobre o OCAU</a
               >
-              <a class="nav-item nav-link" id="manaul-menu" href="#"
+              <a class="nav-item nav-link" id="manual-menu" href="#"
                 >Manual OCAU</a
               >
               <a class="nav-item nav-link" id="letter-menu" href="#"
